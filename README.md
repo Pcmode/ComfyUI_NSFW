@@ -9,6 +9,27 @@ This ui will let you design and execute advanced stable diffusion pipelines usin
 
 ### [Installing ComfyUI](#installing)
 
+### [Installing Models in ComfyUI](#models)
+
+### [Custom Nodes](#Custom_Nodes)
+
+
+# Models
+
+Download the models from this link: https://www.dropbox.com/scl/fo/qddtzn3skxq3ihsfqp5x0/AIU1ENg-yIS0air4YDqzw0s?rlkey=ctmdkvpa7quzpjj214y615ol7&st=w7ujxqpf&dl=0
+
+Once downloaded move the model to the proper location. Example: C:\Downloads\ComfyUI_NSFW\custom_nodes
+
+The ComfyUI Manager can also download the models.
+
+# Custom_Nodes
+
+The UI now will support adding models and any missing node pip installs. Some custom_nodes do still require running "pip install -r requirements.txt" in the root folder of the custom_node.
+
+![ComfyUI Screenshot](comfyui_manager_screenshot.png)
+
+
+
 ## Features
 - Nodes/graph/flowchart interface to experiment and create complex Stable Diffusion workflows without needing to code anything.
 - Fully supports SD1.x, SD2.x, [SDXL](https://comfyanonymous.github.io/ComfyUI_examples/sdxl/), [Stable Video Diffusion](https://comfyanonymous.github.io/ComfyUI_examples/video/), [Stable Cascade](https://comfyanonymous.github.io/ComfyUI_examples/stable_cascade/) and [SD3](https://comfyanonymous.github.io/ComfyUI_examples/sd3/)
