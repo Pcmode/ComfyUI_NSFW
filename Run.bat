@@ -1,0 +1,1 @@
+python main.py --directml --listen --port 8888
