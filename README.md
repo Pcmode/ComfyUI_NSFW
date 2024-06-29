@@ -36,6 +36,8 @@ The UI now will support adding models and any missing node pip installs. Some cu
 
 Load the .json workflow file from the C:\Downloads\ComfyUI\workflows folder.
 
+![ComfyUI Screenshot](comfyui_load_screenshot.png)
+
 Once loaded go into the ComfyUI Manager and click ```Install Missing Custom Nodes```
 
 ![ComfyUI Screenshot](comfyui_manager_install_missing_screenshot.png)
