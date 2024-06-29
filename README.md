@@ -24,7 +24,7 @@ The ComfyUI Manager can also download the models.
 
 # Custom_Nodes
 
-The UI now will support adding models and any missing node pip installs. Some custom_nodes do still require running "pip install -r requirements.txt" in the root folder of the custom_node.
+The UI now will support adding models and any missing node pip installs. Some custom_nodes do still require running ```pip install -r requirements.txt``` in the root folder of the custom_node.
 
 ![ComfyUI Screenshot](comfyui_manager_screenshot.png)
 
