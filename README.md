@@ -13,6 +13,10 @@ This ui will let you design and execute advanced stable diffusion pipelines usin
 
 ### [Custom Nodes](#Custom_Nodes)
 
+### [Load Workflow](#workflow)
+
+### [Custom Nodes](#Custom_Nodes)
+
 
 # Models
 
@@ -28,6 +32,17 @@ The UI now will support adding models and any missing node pip installs. Some cu
 
 ![ComfyUI Screenshot](comfyui_manager_screenshot.png)
 
+# Workflows
+
+Load the .json workflow file from the C:\Downloads\ComfyUI\workflows folder.
+
+![ComfyUI Screenshot](comfyui_manager_install_missing_screenshot.png)
+
+Once loaded go into the ComfyUI Manager and click ```Install Missing Custom Nodes```
+
+This should update and may ask you the click restart.
+
+Always refresh your browser and click refresh in the ComfyUI window after adding models or custom_nodes.
 
 
 ## Features
